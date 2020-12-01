@@ -1,6 +1,5 @@
 # Marvel-Heroes
-## Experience the world's only app (as far as my knowledge goes)...
-## ...that allows you to recall iconic superheroes` looks and voices! 
+** Experience the world's only app (as far as my knowledge goes) that allows you to recall iconic superheroes` looks and voices! **
 
 
 ![](Images/logo.jpg)
