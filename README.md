@@ -32,9 +32,9 @@ And, of course, my app supports the darks side... I mean Mode!.. Dark Mode!
 
 
 **DISCLAIMER:** 
-This app was created for educational purposes only. I have no rights on characters portraied in the app. 
+This app was created for educational purposes only. I have no rights on characters portrayed in the app. 
 
-What I learned in the proccess of making this app:
+**What I learned in the proccess of making this app:**
 
 ###### TableView
 ###### TableViewCell
