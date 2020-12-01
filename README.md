@@ -1,6 +1,6 @@
 # Marvel-Heroes
-## Experience the world's only app (as far as my knowledge goes)
-## that allows you to recall iconic superheroes` looks and voices! 
+## Experience the world's only app (as far as my knowledge goes)...
+## ...that allows you to recall iconic superheroes` looks and voices! 
 
 
 ![](Images/logo.jpg)
@@ -36,11 +36,11 @@ This app was created for educational purposes only. I have no rights on characte
 
 What I learned in the proccess of making this app:
 
-TableView
-TableViewCell
-NavigationBar
-NavigationBarButton
-UIButton
-Unwrapping optionals (using Force Unwrap, Guard, optional binding and chaining) 
-AVFoundation: sound on keypress functionality 
-FileManager
+###### TableView
+###### TableViewCell
+###### NavigationBar
+###### NavigationBarButton
+###### UIButton
+###### Unwrapping optionals (using Force Unwrap, Guard, optional binding and chaining) 
+###### AVFoundation: sound on keypress functionality 
+###### FileManager
