@@ -1,11 +1,11 @@
 # Marvel-Heroes
-Experience the world's only app (as far as my knowledge goes)
-that allows you to recall iconic superheroes` looks and voices! 
+## Experience the world's only app (as far as my knowledge goes)
+## that allows you to recall iconic superheroes` looks and voices! 
 
 
 ![](Images/logo.jpg)
 
-Don't google them, use my app instead! 
+***Don't google them, use my app instead!*** 
 
 Choose your favourite hero from the list: 
 
@@ -31,7 +31,7 @@ And, of course, my app supports the darks side... I mean Mode!.. Dark Mode!
 ![](Images/DarkMode.png)
 
 
-Disclaimer: 
+**DISCLAIMER:** 
 This app was created for educational purposes only. I have no rights on characters portraied in the app. 
 
 What I learned in the proccess of making this app:
