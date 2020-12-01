@@ -25,7 +25,7 @@ Works on both iPhone and iPad!
 
 ![](Images/ipad.png)
 
-And, of course, my app supports the darks side... I mean Mode!.. Dark Mode! 
+And, of course, my app supports the dark side... I mean Mode!.. Dark Mode! 
 
 ![](Images/DarkMode.png)
 
