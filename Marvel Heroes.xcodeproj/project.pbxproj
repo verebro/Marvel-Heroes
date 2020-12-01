@@ -1,0 +1,480 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		E257E12F25766FE100EEAF82 /* Iron Man.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E257E11625766FE100EEAF82 /* Iron Man.jpg */; };
+		E257E13025766FE100EEAF82 /* Vision.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E257E11725766FE100EEAF82 /* Vision.jpg */; };
+		E257E13125766FE100EEAF82 /* Captain America.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E257E11825766FE100EEAF82 /* Captain America.jpg */; };
+		E257E13225766FE100EEAF82 /* Thanos.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E257E11925766FE100EEAF82 /* Thanos.jpg */; };
+		E257E13325766FE100EEAF82 /* Spider-Man.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E257E11A25766FE100EEAF82 /* Spider-Man.jpg */; };
+		E257E13425766FE100EEAF82 /* Doctor Strange.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E257E11C25766FE100EEAF82 /* Doctor Strange.mp3 */; };
+		E257E13525766FE100EEAF82 /* Hulk.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E257E11D25766FE100EEAF82 /* Hulk.mp3 */; };
+		E257E13625766FE100EEAF82 /* Scarlet Witch.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E257E11E25766FE100EEAF82 /* Scarlet Witch.mp3 */; };
+		E257E13725766FE100EEAF82 /* Bro Thor.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E257E11F25766FE100EEAF82 /* Bro Thor.mp3 */; };
+		E257E13825766FE100EEAF82 /* Thor.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E257E12025766FE100EEAF82 /* Thor.mp3 */; };
+		E257E13925766FE100EEAF82 /* Spider-Man Covid19.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E257E12125766FE100EEAF82 /* Spider-Man Covid19.mp3 */; };
+		E257E13A25766FE100EEAF82 /* Black Widow.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E257E12225766FE100EEAF82 /* Black Widow.mp3 */; };
+		E257E13B25766FE100EEAF82 /* Thanos.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E257E12325766FE100EEAF82 /* Thanos.mp3 */; };
+		E257E13C25766FE100EEAF82 /* Captain America.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E257E12425766FE100EEAF82 /* Captain America.mp3 */; };
+		E257E13D25766FE100EEAF82 /* Spider-Man.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E257E12525766FE100EEAF82 /* Spider-Man.mp3 */; };
+		E257E13E25766FE100EEAF82 /* Iron Man.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E257E12625766FE100EEAF82 /* Iron Man.mp3 */; };
+		E257E13F25766FE100EEAF82 /* Vision.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E257E12725766FE100EEAF82 /* Vision.mp3 */; };
+		E257E14025766FE100EEAF82 /* Bro Thor.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E257E12825766FE100EEAF82 /* Bro Thor.jpg */; };
+		E257E14125766FE100EEAF82 /* Black Widow.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E257E12925766FE100EEAF82 /* Black Widow.jpg */; };
+		E257E14225766FE100EEAF82 /* Spider-Man Covid19.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E257E12A25766FE100EEAF82 /* Spider-Man Covid19.jpg */; };
+		E257E14325766FE100EEAF82 /* Thor.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E257E12B25766FE100EEAF82 /* Thor.jpg */; };
+		E257E14425766FE100EEAF82 /* Doctor Strange.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E257E12C25766FE100EEAF82 /* Doctor Strange.jpg */; };
+		E257E14525766FE100EEAF82 /* Hulk.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E257E12D25766FE100EEAF82 /* Hulk.jpg */; };
+		E257E14625766FE100EEAF82 /* Scarlet Witch.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E257E12E25766FE100EEAF82 /* Scarlet Witch.jpg */; };
+		E2715B50256EC90000163C15 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2715B4F256EC90000163C15 /* AppDelegate.swift */; };
+		E2715B52256EC90000163C15 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2715B51256EC90000163C15 /* SceneDelegate.swift */; };
+		E2715B54256EC90000163C15 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2715B53256EC90000163C15 /* ViewController.swift */; };
+		E2715B57256EC90000163C15 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E2715B55256EC90000163C15 /* Main.storyboard */; };
+		E2715B59256EC90500163C15 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E2715B58256EC90500163C15 /* Assets.xcassets */; };
+		E2715B5C256EC90500163C15 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E2715B5A256EC90500163C15 /* LaunchScreen.storyboard */; };
+		E2715B7E256EF94600163C15 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2715B7D256EF94600163C15 /* DetailViewController.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		E257E11625766FE100EEAF82 /* Iron Man.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Iron Man.jpg"; sourceTree = "<group>"; };
+		E257E11725766FE100EEAF82 /* Vision.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Vision.jpg; sourceTree = "<group>"; };
+		E257E11825766FE100EEAF82 /* Captain America.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Captain America.jpg"; sourceTree = "<group>"; };
+		E257E11925766FE100EEAF82 /* Thanos.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Thanos.jpg; sourceTree = "<group>"; };
+		E257E11A25766FE100EEAF82 /* Spider-Man.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Spider-Man.jpg"; sourceTree = "<group>"; };
+		E257E11C25766FE100EEAF82 /* Doctor Strange.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Doctor Strange.mp3"; sourceTree = "<group>"; };
+		E257E11D25766FE100EEAF82 /* Hulk.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Hulk.mp3; sourceTree = "<group>"; };
+		E257E11E25766FE100EEAF82 /* Scarlet Witch.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Scarlet Witch.mp3"; sourceTree = "<group>"; };
+		E257E11F25766FE100EEAF82 /* Bro Thor.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Bro Thor.mp3"; sourceTree = "<group>"; };
+		E257E12025766FE100EEAF82 /* Thor.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Thor.mp3; sourceTree = "<group>"; };
+		E257E12125766FE100EEAF82 /* Spider-Man Covid19.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Spider-Man Covid19.mp3"; sourceTree = "<group>"; };
+		E257E12225766FE100EEAF82 /* Black Widow.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Black Widow.mp3"; sourceTree = "<group>"; };
+		E257E12325766FE100EEAF82 /* Thanos.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Thanos.mp3; sourceTree = "<group>"; };
+		E257E12425766FE100EEAF82 /* Captain America.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Captain America.mp3"; sourceTree = "<group>"; };
+		E257E12525766FE100EEAF82 /* Spider-Man.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Spider-Man.mp3"; sourceTree = "<group>"; };
+		E257E12625766FE100EEAF82 /* Iron Man.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Iron Man.mp3"; sourceTree = "<group>"; };
+		E257E12725766FE100EEAF82 /* Vision.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Vision.mp3; sourceTree = "<group>"; };
+		E257E12825766FE100EEAF82 /* Bro Thor.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Bro Thor.jpg"; sourceTree = "<group>"; };
+		E257E12925766FE100EEAF82 /* Black Widow.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Black Widow.jpg"; sourceTree = "<group>"; };
+		E257E12A25766FE100EEAF82 /* Spider-Man Covid19.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Spider-Man Covid19.jpg"; sourceTree = "<group>"; };
+		E257E12B25766FE100EEAF82 /* Thor.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Thor.jpg; sourceTree = "<group>"; };
+		E257E12C25766FE100EEAF82 /* Doctor Strange.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Doctor Strange.jpg"; sourceTree = "<group>"; };
+		E257E12D25766FE100EEAF82 /* Hulk.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Hulk.jpg; sourceTree = "<group>"; };
+		E257E12E25766FE100EEAF82 /* Scarlet Witch.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Scarlet Witch.jpg"; sourceTree = "<group>"; };
+		E257E1492576770E00EEAF82 /* Marvel Heroes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Marvel Heroes.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E2715B4F256EC90000163C15 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		E2715B51256EC90000163C15 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		E2715B53256EC90000163C15 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		E2715B56256EC90000163C15 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		E2715B58256EC90500163C15 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		E2715B5B256EC90500163C15 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		E2715B5D256EC90500163C15 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E2715B7D256EF94600163C15 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		E2715B49256EC90000163C15 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		E257E11525766FE100EEAF82 /* Content */ = {
+			isa = PBXGroup;
+			children = (
+				E257E11B25766FE100EEAF82 /* Sounds */,
+				E257E11625766FE100EEAF82 /* Iron Man.jpg */,
+				E257E11725766FE100EEAF82 /* Vision.jpg */,
+				E257E11825766FE100EEAF82 /* Captain America.jpg */,
+				E257E11925766FE100EEAF82 /* Thanos.jpg */,
+				E257E11A25766FE100EEAF82 /* Spider-Man.jpg */,
+				E257E12825766FE100EEAF82 /* Bro Thor.jpg */,
+				E257E12925766FE100EEAF82 /* Black Widow.jpg */,
+				E257E12A25766FE100EEAF82 /* Spider-Man Covid19.jpg */,
+				E257E12B25766FE100EEAF82 /* Thor.jpg */,
+				E257E12C25766FE100EEAF82 /* Doctor Strange.jpg */,
+				E257E12D25766FE100EEAF82 /* Hulk.jpg */,
+				E257E12E25766FE100EEAF82 /* Scarlet Witch.jpg */,
+			);
+			path = Content;
+			sourceTree = "<group>";
+		};
+		E257E11B25766FE100EEAF82 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				E257E11C25766FE100EEAF82 /* Doctor Strange.mp3 */,
+				E257E11D25766FE100EEAF82 /* Hulk.mp3 */,
+				E257E11E25766FE100EEAF82 /* Scarlet Witch.mp3 */,
+				E257E11F25766FE100EEAF82 /* Bro Thor.mp3 */,
+				E257E12025766FE100EEAF82 /* Thor.mp3 */,
+				E257E12125766FE100EEAF82 /* Spider-Man Covid19.mp3 */,
+				E257E12225766FE100EEAF82 /* Black Widow.mp3 */,
+				E257E12325766FE100EEAF82 /* Thanos.mp3 */,
+				E257E12425766FE100EEAF82 /* Captain America.mp3 */,
+				E257E12525766FE100EEAF82 /* Spider-Man.mp3 */,
+				E257E12625766FE100EEAF82 /* Iron Man.mp3 */,
+				E257E12725766FE100EEAF82 /* Vision.mp3 */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		E2715B43256EC90000163C15 = {
+			isa = PBXGroup;
+			children = (
+				E2715B4E256EC90000163C15 /* Marvel Heroes */,
+				E257E1492576770E00EEAF82 /* Marvel Heroes.app */,
+			);
+			sourceTree = "<group>";
+		};
+		E2715B4E256EC90000163C15 /* Marvel Heroes */ = {
+			isa = PBXGroup;
+			children = (
+				E2715B4F256EC90000163C15 /* AppDelegate.swift */,
+				E2715B51256EC90000163C15 /* SceneDelegate.swift */,
+				E2715BA425700EA100163C15 /* Model */,
+				E2715BA125700E9200163C15 /* View */,
+				E2715B9F25700E7300163C15 /* Controller */,
+				E2715B58256EC90500163C15 /* Assets.xcassets */,
+				E2715B5A256EC90500163C15 /* LaunchScreen.storyboard */,
+				E2715B5D256EC90500163C15 /* Info.plist */,
+				E257E11525766FE100EEAF82 /* Content */,
+			);
+			path = "Marvel Heroes";
+			sourceTree = "<group>";
+		};
+		E2715B9F25700E7300163C15 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				E2715B53256EC90000163C15 /* ViewController.swift */,
+				E2715B7D256EF94600163C15 /* DetailViewController.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		E2715BA125700E9200163C15 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				E2715B55256EC90000163C15 /* Main.storyboard */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		E2715BA425700EA100163C15 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		E2715B4B256EC90000163C15 /* Marvel Heroes */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E2715B60256EC90500163C15 /* Build configuration list for PBXNativeTarget "Marvel Heroes" */;
+			buildPhases = (
+				E2715B48256EC90000163C15 /* Sources */,
+				E2715B49256EC90000163C15 /* Frameworks */,
+				E2715B4A256EC90000163C15 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Marvel Heroes";
+			productName = "MCU Cheat Sheet";
+			productReference = E257E1492576770E00EEAF82 /* Marvel Heroes.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		E2715B44256EC90000163C15 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1220;
+				LastUpgradeCheck = 1220;
+				TargetAttributes = {
+					E2715B4B256EC90000163C15 = {
+						CreatedOnToolsVersion = 12.2;
+					};
+				};
+			};
+			buildConfigurationList = E2715B47256EC90000163C15 /* Build configuration list for PBXProject "Marvel Heroes" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = E2715B43256EC90000163C15;
+			productRefGroup = E2715B43256EC90000163C15;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				E2715B4B256EC90000163C15 /* Marvel Heroes */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		E2715B4A256EC90000163C15 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E2715B5C256EC90500163C15 /* LaunchScreen.storyboard in Resources */,
+				E257E13225766FE100EEAF82 /* Thanos.jpg in Resources */,
+				E257E13E25766FE100EEAF82 /* Iron Man.mp3 in Resources */,
+				E257E14425766FE100EEAF82 /* Doctor Strange.jpg in Resources */,
+				E257E13D25766FE100EEAF82 /* Spider-Man.mp3 in Resources */,
+				E257E14525766FE100EEAF82 /* Hulk.jpg in Resources */,
+				E257E13525766FE100EEAF82 /* Hulk.mp3 in Resources */,
+				E257E13025766FE100EEAF82 /* Vision.jpg in Resources */,
+				E257E13625766FE100EEAF82 /* Scarlet Witch.mp3 in Resources */,
+				E257E13C25766FE100EEAF82 /* Captain America.mp3 in Resources */,
+				E257E13B25766FE100EEAF82 /* Thanos.mp3 in Resources */,
+				E257E14125766FE100EEAF82 /* Black Widow.jpg in Resources */,
+				E257E13925766FE100EEAF82 /* Spider-Man Covid19.mp3 in Resources */,
+				E257E14225766FE100EEAF82 /* Spider-Man Covid19.jpg in Resources */,
+				E257E13125766FE100EEAF82 /* Captain America.jpg in Resources */,
+				E257E14625766FE100EEAF82 /* Scarlet Witch.jpg in Resources */,
+				E2715B59256EC90500163C15 /* Assets.xcassets in Resources */,
+				E257E14025766FE100EEAF82 /* Bro Thor.jpg in Resources */,
+				E257E13425766FE100EEAF82 /* Doctor Strange.mp3 in Resources */,
+				E257E13A25766FE100EEAF82 /* Black Widow.mp3 in Resources */,
+				E257E13325766FE100EEAF82 /* Spider-Man.jpg in Resources */,
+				E2715B57256EC90000163C15 /* Main.storyboard in Resources */,
+				E257E13F25766FE100EEAF82 /* Vision.mp3 in Resources */,
+				E257E14325766FE100EEAF82 /* Thor.jpg in Resources */,
+				E257E13825766FE100EEAF82 /* Thor.mp3 in Resources */,
+				E257E13725766FE100EEAF82 /* Bro Thor.mp3 in Resources */,
+				E257E12F25766FE100EEAF82 /* Iron Man.jpg in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		E2715B48256EC90000163C15 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E2715B54256EC90000163C15 /* ViewController.swift in Sources */,
+				E2715B50256EC90000163C15 /* AppDelegate.swift in Sources */,
+				E2715B7E256EF94600163C15 /* DetailViewController.swift in Sources */,
+				E2715B52256EC90000163C15 /* SceneDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		E2715B55256EC90000163C15 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				E2715B56256EC90000163C15 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		E2715B5A256EC90500163C15 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				E2715B5B256EC90500163C15 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		E2715B5E256EC90500163C15 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.6;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		E2715B5F256EC90500163C15 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.6;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		E2715B61256EC90500163C15 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = ZBFK3GKKGM;
+				INFOPLIST_FILE = "/Users/Development/Marvel Heroes/Marvel Heroes/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.6;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.kerechanin.Marvel-Heroes";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		E2715B62256EC90500163C15 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = ZBFK3GKKGM;
+				INFOPLIST_FILE = "/Users/Development/Marvel Heroes/Marvel Heroes/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.6;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.kerechanin.Marvel-Heroes";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		E2715B47256EC90000163C15 /* Build configuration list for PBXProject "Marvel Heroes" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E2715B5E256EC90500163C15 /* Debug */,
+				E2715B5F256EC90500163C15 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E2715B60256EC90500163C15 /* Build configuration list for PBXNativeTarget "Marvel Heroes" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E2715B61256EC90500163C15 /* Debug */,
+				E2715B62256EC90500163C15 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = E2715B44256EC90000163C15 /* Project object */;
+}
